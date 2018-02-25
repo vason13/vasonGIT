@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Users\Vincent\Documents\Atmel Studio\7.0\Assignment1\Assignment1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>D:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Users\Vincent\Documents\Atmel Studio\7.0\Assignment1\Assignment1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Users\Vincent\Documents\Atmel Studio\7.0\Assignment1\Assignment1\Debug\Assignment1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Assignment1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Assignment1.map</FILE>
+  <FILE>Assignment1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <loop1><FILE>D:\Users\Vincent\Documents\Atmel Studio\7.0\Assignment1\Assignment1\main.asm</FILE><LINE>32</LINE></loop1>
+  <subFive><FILE>D:\Users\Vincent\Documents\Atmel Studio\7.0\Assignment1\Assignment1\main.asm</FILE><LINE>39</LINE></subFive>
+  <notDivisibleByFive><FILE>D:\Users\Vincent\Documents\Atmel Studio\7.0\Assignment1\Assignment1\main.asm</FILE><LINE>53</LINE></notDivisibleByFive>
+  <nextNumber><FILE>D:\Users\Vincent\Documents\Atmel Studio\7.0\Assignment1\Assignment1\main.asm</FILE><LINE>59</LINE></nextNumber>
+  <done><FILE>D:\Users\Vincent\Documents\Atmel Studio\7.0\Assignment1\Assignment1\main.asm</FILE><LINE>68</LINE></done>
+ </LABELS>
+</ASSEMBLER_INFO>
