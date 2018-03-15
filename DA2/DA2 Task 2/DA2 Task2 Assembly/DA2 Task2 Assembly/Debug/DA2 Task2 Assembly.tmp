@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\vince\Documents\Atmel Studio\7.0\DA2\DA2 Task 2\DA2 Task2 Assembly\DA2 Task2 Assembly\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\vince\Documents\Atmel Studio\7.0\DA2\DA2 Task 2\DA2 Task2 Assembly\DA2 Task2 Assembly\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\vince\Documents\Atmel Studio\7.0\DA2\DA2 Task 2\DA2 Task2 Assembly\DA2 Task2 Assembly\Debug\DA2 Task2 Assembly.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2 Task2 Assembly.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2 Task2 Assembly.map</FILE>
+  <FILE>DA2 Task2 Assembly.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <begin><FILE>C:\Users\vince\Documents\Atmel Studio\7.0\DA2\DA2 Task 2\DA2 Task2 Assembly\DA2 Task2 Assembly\main.asm</FILE><LINE>16</LINE></begin>
+  <getDelay><FILE>C:\Users\vince\Documents\Atmel Studio\7.0\DA2\DA2 Task 2\DA2 Task2 Assembly\DA2 Task2 Assembly\main.asm</FILE><LINE>23</LINE></getDelay>
+  <delays><FILE>C:\Users\vince\Documents\Atmel Studio\7.0\DA2\DA2 Task 2\DA2 Task2 Assembly\DA2 Task2 Assembly\main.asm</FILE><LINE>25</LINE></delays>
+  <delayss><FILE>C:\Users\vince\Documents\Atmel Studio\7.0\DA2\DA2 Task 2\DA2 Task2 Assembly\DA2 Task2 Assembly\main.asm</FILE><LINE>27</LINE></delayss>
+  <delaysss><FILE>C:\Users\vince\Documents\Atmel Studio\7.0\DA2\DA2 Task 2\DA2 Task2 Assembly\DA2 Task2 Assembly\main.asm</FILE><LINE>29</LINE></delaysss>
+ </LABELS>
+</ASSEMBLER_INFO>
